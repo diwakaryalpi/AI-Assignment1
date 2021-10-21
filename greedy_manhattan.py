@@ -12,7 +12,7 @@ possibleMoves = {'N':[-1,0], 'E':[0,1],'S':[1,0],'W':[0,-1]}
 
 maxRowLength = 0	
 lines=0
-print("Enter the board configuration:\n\n")
+
 while(1):
 	line =input()
 	if line!="":
@@ -75,7 +75,7 @@ def manhattan(state):
 				distance+=temp
 	return distance
 
-print("Solving using Greedy Best First with Manhattan as heuristic\n")
+print("Solving using Greedy-best search using Manhattan distance heuristic\n")
 
 movesList=[]
 visitedMoves=[]
