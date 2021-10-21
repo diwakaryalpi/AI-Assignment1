@@ -76,7 +76,7 @@ def manhattan(state):
 				#print(distance)
 	return distance
 
-print("Solving using A star with Manhattan as heuristic\n")
+print("Solving using A star using Manhattan distance heuristic\n")
 
 movesList=[]
 visitedMoves=[]
