@@ -97,7 +97,7 @@ def manhattan(state):
 				distance+=temp
 	return distance
 
-print("Solving using Astar Own heuristic\n")
+print("Solving using Astar using Own heuristic\n")
 
 movesList=[]
 visitedMoves=[]
