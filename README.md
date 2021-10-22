@@ -25,14 +25,14 @@ I have implemented all the algorithms in 6 different files and named as below:
 **Two new lines** should be provided after the input puzzle so that the program understands that complete input is considered.
 
 	I have saved the Sokoban puzzle in the text file : puzzle.txt. 
-    python3 "python_filename" < "puzzle_input"
+    python3 "python_filename" < "puzzle_input" > "Output_filename"
     
-    python3 bfs.py < puzzle.txt
-    python3 dfs.py < puzzle.txt
-    python3 greedy_manhattan.py < puzzle.txt
-    python3 greedyOwnHeuristic.py < puzzle.txt
-    python3 Astar_manhattan.py < puzzle.txt
-    python3 Astar-OwnHeuristic.py < puzzle.txt
+    python3 bfs.py < puzzle.txt > bfsoutput.txt
+    python3 dfs.py < puzzle.txt > dfsoutput.txt
+    python3 greedy_manhattan.py < puzzle.txt > Greemanoutput.txt
+    python3 greedyOwnHeuristic.py < puzzle.txt > Greeheuroutput.txt
+    python3 Astar_manhattan.py < puzzle.txt > ASmanoutput.txt
+    python3 Astar-OwnHeuristic.py < puzzle.txt > ASheurioutput.txt
 
 **Note: input file has to contain 2 new lines after providing puzzle, please check the puzzle.txt to understand the format. It has 2 new lines after the puzzle**
 
