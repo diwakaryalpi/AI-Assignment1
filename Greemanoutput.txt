@@ -1,0 +1,9 @@
+Enter the board configuration:
+
+
+Solving using Greedy Best First with Manhattan as heuristic
+
+Number of moves : 45
+['E', 'S', 'S', 'S', 'S', 'W', 'N', 'E', 'N', 'N', 'W', 'W', 'W', 'S', 'W', 'W', 'N', 'E', 'E', 'E', 'E', 'N', 'E', 'S', 'S', 'S', 'W', 'N', 'E', 'N', 'W', 'W', 'W', 'S', 'W', 'W', 'N', 'E', 'E', 'E', 'E', 'N', 'E', 'S', 'S'] 
+
+Run time: 0.47817492485046387
