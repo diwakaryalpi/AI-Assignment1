@@ -35,3 +35,12 @@ I have implemented all the algorithms in 6 different files and named as below:
     python3 Astar-OwnHeuristic.py < puzzle.txt
 
 **Note: input file has to contain 2 new lines after providing puzzle, please check the puzzle.txt to understand the format. It has 2 new lines after the puzzle**
+
+### Output files:
+
+1. bfsoutput.txt - Output file for BFS
+2. dfsoutput.txt - Output file for DFS
+3. Greemanoutput.txt - Output file for Greedy search using Manhattan distance heuristic
+4. Greeheuroutput.txt - Output file for Greedy search using own heuristic
+5. ASmanoutput.txt - Output file for A* search using Manhattan distance heuristic
+6. ASheurioutput.txt - Output file for A* search using own heuristic
