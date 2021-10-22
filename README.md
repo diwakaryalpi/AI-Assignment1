@@ -44,3 +44,5 @@ I have implemented all the algorithms in 6 different files and named as below:
 4. Greeheuroutput.txt - Output file for Greedy search using own heuristic
 5. ASmanoutput.txt - Output file for A* search using Manhattan distance heuristic
 6. ASheurioutput.txt - Output file for A* search using own heuristic
+
+For one puzzle I am unable to get BFS and A* search values and I have saved the puzzle as notworking.txt file.
