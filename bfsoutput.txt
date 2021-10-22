@@ -1,0 +1,5 @@
+Solving using DFS
+Number of moves : 51
+['E', 'S', 'W', 'W', 'W', 'E', 'E', 'S', 'E', 'S', 'S', 'W', 'N', 'E', 'N', 'N', 'W', 'W', 'W', 'S', 'W', 'W', 'N', 'E', 'E', 'E', 'E', 'N', 'E', 'S', 'S', 'S', 'W', 'N', 'E', 'N', 'W', 'W', 'W', 'S', 'W', 'W', 'N', 'E', 'E', 'E', 'E', 'N', 'E', 'S', 'S'] 
+
+Run time: 1.6778028011322021
